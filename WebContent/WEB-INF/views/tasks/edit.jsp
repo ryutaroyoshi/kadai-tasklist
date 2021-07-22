@@ -19,8 +19,7 @@
                 document.forms[1].submit();
             }
         }
-
-        }
         </script>
+        }
     </c:param>
 </c:import>
